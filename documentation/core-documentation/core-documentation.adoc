@@ -1,0 +1,13 @@
+[[core-documentation]]
+Core Documentation
+------------------
+
+Documentation of core features, shared with GlassFish Server 4 Open
+Source Edition.
+
+[[references]]
+References
+~~~~~~~~~~
+
+* https://glassfish.java.net/documentation.html[GlassFish Server 4 Open
+Source Edition documentation]
