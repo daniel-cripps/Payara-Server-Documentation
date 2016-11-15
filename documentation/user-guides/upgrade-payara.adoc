@@ -127,7 +127,7 @@ wanted:
 /opt/payara/162/payara41/bin/asadmin start-domain --domaindir /opt/payara/domains myDomain
 ------------------------------------------------------------------------------------------
 
-NOTE: the `--domaindir` option specifies the parent directory for your domain, in other words, the location of your domains. There is then a space and then the name of the domain you want to start. Domain1 is still the default
+NOTE: the `--domaindir` option specifies the parent directory for your domain, in other words, the location of your domains. There is then a space and then the name of the domain you want to start. `domain1` is still the default
 
 
 You can start nodes in the same way:
