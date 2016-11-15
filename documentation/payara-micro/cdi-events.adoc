@@ -6,4 +6,4 @@ Payara Micro has the ability to listen for and fire CDI events across
 the cluster of a PayaraMicroRuntime instance.
 
 You can view the methods associated with CDI Events in the
-link:appendices/operation-methods.md#cdi-methods[appendices].
+link:appendices/operation-methods.adoc#cdi-methods[appendices].

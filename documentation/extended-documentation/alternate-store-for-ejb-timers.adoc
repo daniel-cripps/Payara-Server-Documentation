@@ -18,7 +18,7 @@ Timers Storage Configuration]
 Starting with release _4.1.1.164_, the distributed Hazelcast cache can
 be used to store the persistent EJB timers of deployed Java EE
 applications on the server in a similar manner offered by
-link:./payara-micro/persistent-ejb-timers.md[Payara Micro's
+link:./payara-micro/persistent-ejb-timers.adoc[Payara Micro's
 configuration]
 
 [[documentation-conventions]]
@@ -55,4 +55,4 @@ visual element on the admin console) are available.
 
 Keep in mind that to use this altenate data store for persistent EJB
 timers, *Hazelcast* must be
-link:./hazelcast.md#3-enabling-hazelcast[enabled] first.
+link:./hazelcast.adoc#3-enabling-hazelcast[enabled] first.

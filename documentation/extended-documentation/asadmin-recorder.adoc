@@ -122,7 +122,7 @@ asadmin set-asadmin-recorder-configuration --enabled true --outputLocation /home
 --------------------------------
 
 Documentation on running asadmin scripts can be found in the
-link:documentation/core-documentation/core-documentation.md[core
+link:documentation/core-documentation/core-documentation.adoc[core
 documentation], under the _Run a Set of asadmin Subcommands From a File_
 section.
 
